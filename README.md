@@ -8,3 +8,6 @@ DllMap implementation for .NET Core 3.0+. The goal of this library is to provide
 
 ## Usage Instructions
 Call `CoreDllMap.Register()`, passing in the assembly you want to register with dllmap. That's it!
+
+## Attributions
+This code was heavily based on work by [Dan "clarvalon" Alexander](https://github.com/clarvalon), used with permission.
